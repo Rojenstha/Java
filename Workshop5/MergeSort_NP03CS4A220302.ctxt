@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MergeSort_NP03CS4A220302
+comment1.params=obj
+comment1.target=java.util.ArrayList\ getInput(java.util.ArrayList)
+comment2.params=obj
+comment2.target=void\ getOutput(java.util.ArrayList)
+comment3.params=obj\ x\ y\ z
+comment3.target=void\ merge(java.util.ArrayList,\ int,\ int,\ int)
+comment4.params=obj\ x\ z
+comment4.target=void\ sort(java.util.ArrayList,\ int,\ int)
+comment5.params=
+comment5.target=void\ main()
+numComments=6
